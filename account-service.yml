@@ -1,1 +1,6 @@
+spring:
+  application:
+    name: account-service
 
+custom:
+  message: "Account Service Config Loaded Successfully"
