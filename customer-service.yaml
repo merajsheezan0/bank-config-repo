@@ -24,4 +24,4 @@ custom:
   message: "Customer Service Config Loaded Successfully"
 
 greeting:
-  message: "Hello from updated config!"
+  message: "Hello from updated config server!"
